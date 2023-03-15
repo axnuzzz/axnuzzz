@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a budding software developer, currently in 2nd year of college doing integrated<br>MTech from IIITB.<br>I'm currently working on improving my blockchain skills and also learning react.
+I'm a budding software developer, currently in 2nd year of college doing Integrated<br>MTech from IIITB.<br>I'm currently working on improving my blockchain skills and also learning react.
 
 
 ## 🌐 Socials:
