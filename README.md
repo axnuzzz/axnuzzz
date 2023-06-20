@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm a budding software developer, currently in 2nd year of college doing Integrated<br>MTech from IIITB.<br>I'm currently working on improving my blockchain skills and also learning react.
-
+I'm a budding software developer, currently in 2nd year of college doing Integrated<br>MTech from IIITB.<br>I'm currently working on improving my blockchain skills and also learning React.
+Check out my portfolio website [Portfolio](https://portfolio-axnuzzz.vercel.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anujaroraaaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-arora-862315251) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Axnuzzzz) 
